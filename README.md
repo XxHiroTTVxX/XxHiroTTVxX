@@ -22,5 +22,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=XxHiroTTVxX&show_icons=true&theme=radical)
 
 </div>
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/XxHiroTTVxX/XxHiroTTVxX/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/XxHiroTTVxX/XxHiroTTVxX/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/XxHiroTTVxX/XxHiroTTVxX/output/github-contribution-grid-snake-dark.svg" />
+</picture>
